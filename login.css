@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Petrona:ital,wght@0,100..900;1,100..900&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: blue;
+}
+
+.box {
+    height: 400px;
+    width: 400px;
+}
+
+.Login {
+    background-color: white;
+    height: 500px;
+    width: 400px;
+    text-align: center;
+    margin: 20px;
+}
+
+.Login button {
+    background-color: blue;
+}
+
+.SignUp {
+    background-color: white;
+    height: 500px;
+    width: 400px;
+    text-align: center;
+    margin: 20px;
+}
+
+.SignUp button {
+    background-color: blue;
+}
+
+a {
+    text-decoration: none;
+}
+
+.Box {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+input {
+    height: 20px;
+    width: 300px;
+}
+
+Button {
+    color: white;
+    width: 300px;
+}

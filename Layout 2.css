@@ -1,0 +1,69 @@
+.Main {
+    border: 2px solid black;
+    width: 100%;
+}
+
+.Header {
+    height: 50px;
+    background-color: red;
+    margin: 4px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 30px;
+}
+
+.Nav {
+    height: 50px;
+    background-color: blue;
+    margin: 4px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 30px;
+}
+
+.body {
+    height: 300px;
+    background-color: white;
+    display: flex;
+}
+
+.Footer {
+    height: 50px;
+    background-color: aquamarine;
+    margin: 4px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 30px;
+}
+
+.LeftBody {
+    width: 100%;
+    height: 94%;
+}
+
+.Aside {
+    background-color: pink;
+    width: 100%;
+    height: 97%;
+    margin: 4px;
+    border: 2px solid black;
+    font-size: 30px;
+}
+
+.Article {
+    background-color: gray;
+    height: 50%;
+    margin: 4px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 30px;
+}
+
+.Section {
+    background-color: aqua;
+    height: 50%;
+    margin: 4px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 30px;
+}

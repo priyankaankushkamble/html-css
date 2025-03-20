@@ -1,0 +1,30 @@
+.main {
+    background-color: pink;
+    height: 500px;
+    width: 100%;
+}
+
+.logo {
+    background-color: blue;
+    height: 100px;
+}
+
+.menu {
+    background-color: green;
+    height: 100px;
+}
+
+.leftside {
+    background-color: purple;
+    display: flex;
+}
+
+.slider {
+    background-color: blueviolet;
+    height: 200px;
+}
+
+.rightside {
+    background-color: yellow;
+    height: 50px;
+}
