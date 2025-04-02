@@ -1,0 +1,120 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.main{
+	height:auto;
+	width:60%;
+	background-color:pink;
+	margin:auto;
+}
+.header{
+	height:80px;
+	width:100%;
+	background-color:white;
+}
+.header h1{
+	text-align:center;
+	color:blue;
+	margin-top:5%;
+}
+.second{
+	height:50px;
+	width:100%;
+	background-color:white;
+	display:flex;
+}
+.second button{
+	height:40px;
+	width:50%;
+	margin-left:10px;
+	margin-top:4px;
+	border:2px solid blue;
+	border-radius:10px;
+}
+.b2 button{
+	height:40px;
+	width:100%;
+	margin-left:140px;
+	background-color:blue;
+}
+.a{
+	height:80px;
+	widdth:100%;
+	background-color:white;
+	display:flex;
+	}
+.a img{
+	height:40px;
+	width:40px;
+	margin-top:20px;
+	margin-left:7px;
+}
+.a i{
+	margin-left:40%;
+	text-align:center;
+	margin-top:30px;
+	text-decoration-line:line-through;
+}
+.a button{
+	margin-left:30%;
+	height:40px;
+	width:120px;
+	margin-top:15px;
+	border-radius:10px;
+	background-color:red;
+}
+
+.b{
+	height:80px;
+	width:100%;
+	background-color:white;
+	display:flex;
+	}
+.b img{
+	height:40px;
+	width:40px;
+	margin-top:20px;
+	margin-left:7px;
+}
+.b strong{
+	margin-left:40%;
+	text-align:center;
+	margin-top:30px;
+}
+.b button{
+	margin-left:30%;
+	height:40px;
+	width:120px;
+	margin-top:15px;
+	border-radius:10px;
+	background-color:red
+}
+
+.c{
+	height:80px;
+	widdth:100%;
+	background-color:white;
+	display:flex;
+	}
+.c img{
+	height:40px;
+	width:40px;
+	margin-top:20px;
+	margin-left:7px;
+}
+.c i{
+	margin-left:40%;
+	text-align:center;
+	margin-top:30px;
+	text-decoration-line:line-through;
+
+}
+.c button{
+	margin-left:30%;
+	height:40px;
+	width:120px;
+	margin-top:15px;
+	border-radius:10px;
+	background-color:red
+}
