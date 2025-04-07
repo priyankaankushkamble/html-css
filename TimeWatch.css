@@ -1,0 +1,202 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.main{
+	height:auto;
+	width:80%;
+	background-color:gray;
+	margin:auto;
+}
+.header{
+	height:50px;
+	width:100%;
+	background-color:black;
+	display:flex;
+}
+.header h4{
+	color:white;
+	margin-left:10px;
+	margin-top:10px;
+}
+.header button{
+	height:30px;
+	width:32%;
+	margin-top:10px;
+	margin-left:10px;
+}
+.header ul{
+	display:flex;
+	
+	
+}
+.header ul li{
+		margin-left:35px;
+		list-style:none;
+		margin-top:10px;
+}
+.header ul li a{
+	text-decoration:none;
+	color:white;
+}
+.watch{
+	height:auto;
+	width:100%;
+	background-color:#D3D3D3;
+	
+}
+.mw{
+	display:flex;
+}
+
+.w{
+	height:280px;
+	width:35%;
+	background-color:white;
+	margin-left:40px;
+	margin-top:40px;
+}
+.w img{
+	height:280px;
+	width:100%;
+}
+.e{
+	height:auto;
+	width:35%;
+	background-color:white;
+	margin-left:50px;
+	margin-top:40px;
+}
+.w1{
+	height:60px;
+	width:60px;
+	background-color:#D3D3D3;
+	margin-left:40px;
+}
+.w2{
+	height:60px;
+	width:60px;
+	background-color:#D3D3D3;
+	margin-left:10px;
+}
+.w3{
+	height:60px;
+	width:60px;
+	background-color:#D3D3D3;
+	margin-left:10px;
+}
+.w4{
+	height:60px;
+	width:60px;
+	background-color:#D3D3D3;
+	margin-left:10px;
+}
+.w5{
+	height:60px;
+	width:60px;
+	background-color:#D3D3D3;
+	margin-left:10px;
+}
+.wat{
+	display:flex;
+	background-color:#D3D3D3;
+	height:60px;
+	width:40%;
+	margin-top:-60px;
+}
+.w1 img{
+	height:60px;
+	width:60px;
+}
+.w2 img{
+	height:60px;
+	width:60px;
+}
+.w3 img{
+	height:60px;
+	width:60px;
+}
+.w4 img{
+	height:60px;
+	width:60px;
+	
+}
+.w5 img{
+	height:60px;
+	width:60px;
+}
+.e h2{
+	margin-top:4px;
+	margin-left:5px;
+}
+.e h5{
+	margin-left:5px;
+}
+.e h4{
+	margin-left:5px;
+}
+.e h6{
+	margin-left:5px;
+}
+.star{
+	height:40px;
+	width:100%;
+	display:flex;
+	margin-left:5px;
+}
+
+.star img{
+	height:20px;
+	width:20px;
+}
+.button{
+	
+}
+#b1{
+	height:30px;
+	width:30px;
+	background-color:black;
+	color:white;
+	margin-left:10px;
+}
+#b2{
+	height:20px;
+	width:40px;
+}
+#b3{
+	height:30px;
+	width:30px;
+	background-color:black;
+	color:white;
+}
+.btn button{
+	height:30px;
+	width:90%;
+	margin-top:20px;
+	margin-left:5px;
+	color:white;
+	background-color:black;
+	border-radius:10px;
+}
+.offer{
+	height:100px;
+	width:90%;
+	background-color:#D3D3D3;
+	margin-left:10px;
+	margin-top:20px;
+}
+.offer h3{
+	text-align:center;
+	margin-top:5px;
+}
+.offer h6{
+	text-align:center;
+}
+.offer button{
+	height:30px;
+	width:40%;
+	color:white;
+	margin-left:90px;
+	background-color:black;
+	border-radius:10px;
+}
